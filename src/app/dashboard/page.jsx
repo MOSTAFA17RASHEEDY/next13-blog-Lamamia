@@ -6,10 +6,10 @@ import { useRouter } from 'next/navigation'
 import Image from 'next/image'
 import useSWR from "swr";
 
-export const metadata = {
-  title: 'Dashboard',
-  description: 'this is a Dashboard page ',
-}
+// export const metadata = {
+//   title: 'Dashboard',
+//   description: 'this is a Dashboard page ',
+// }
 
 function Dashboard() {
 
